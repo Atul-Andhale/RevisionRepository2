@@ -6,6 +6,8 @@ public class Assignment {
 	{
 		int i,j;
 //		int i,j;
+//		
+//		atu andhale
 		for(i=1;i<=7;i=i+2) 
 		{
 		    for(j=7-i;j>=1;j--) 
